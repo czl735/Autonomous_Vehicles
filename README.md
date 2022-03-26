@@ -7,7 +7,7 @@ Autonomous_Vehicles_withMITCarla_
 2. Develop a working simulation with a python-based vehicle autonomy agent
 3. Tune a control system for tracking performance on a complex path
 
-## Session1: PID controller
+## Part 1: PID controller
 
 Main Part:
 * IMPLEMENTATION OF LONGITUDINAL CONTROLLER 
