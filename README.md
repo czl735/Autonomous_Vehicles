@@ -14,7 +14,7 @@ be used freely. The simulation platform supports flexible specification of senso
 
 ## Part 1: PID controller
 
-Main Part:
-* LONGITUDINAL CONTROLLER 
-* LATERAL CONTROLLER 
 ![image](https://github.com/czl735/Autonomous_Vehicles/blob/main/Session1/trajectory.png)
+![image](https://github.com/czl735/Autonomous_Vehicles/blob/main/Session1/steer_output.png)
+![image](https://github.com/czl735/Autonomous_Vehicles/blob/main/Session1/throttle_output.png)
+![image](https://github.com/czl735/Autonomous_Vehicles/blob/main/Session1/Speed_Profiles.png)
