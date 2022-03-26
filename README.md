@@ -17,3 +17,4 @@ be used freely. The simulation platform supports flexible specification of senso
 Main Part:
 * LONGITUDINAL CONTROLLER 
 * LATERAL CONTROLLER 
+![image](https://github.com/czl735/Autonomous_Vehicles/blob/main/Session1/trajectory.png)
